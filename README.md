@@ -2,4 +2,4 @@
 *My first GitHub repo!!*
 Hello Odin!!!
 `puts("Hello World!")`
-$ E = mc^2 $
+$ E = mc^2 $   
